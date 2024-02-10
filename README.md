@@ -1,6 +1,6 @@
 # MVVM in Android | Professional Development in android
 
-![Mastering NavigationStack in SwiftUI](https://github.com/pushpendra996/navigationstack-ios/blob/main/NavigationStack%20&%20NavigationLink.png?raw=true)
+![MVVM in Android](https://github.com/pushpendra996/navigationstack-ios/blob/main/NavigationStack%20&%20NavigationLink.png?raw=true)
 
 This repository contains the code and resources discussed in the YouTube video titled "Practical Guide to MVVM: How Professional Developers Approach Application Development."
 
@@ -12,9 +12,8 @@ This repository contains the code and resources discussed in the YouTube video t
 5. [Resources](#resources)
 6. [Additional Examples](#additional-examples)
 7. [License](#license)
-8. [Contributing Guidelines](#contributing-guidelines)
-9. [Contact Information](#contact-information)
-10. [Acknowledgements](#acknowledgements)
+8. [Contact Information](#contact-information)
+9. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 - Briefly introduce MVVM and its significance in modern application development.
@@ -41,9 +40,6 @@ This repository contains the code and resources discussed in the YouTube video t
 ## License
 - This project is licensed under the [MIT License](/LICENSE).
 - Review the license for details on how you can use, modify, and distribute the code.
-
-## Contributing Guidelines
-- Interested in contributing? Check [CONTRIBUTING.md](/CONTRIBUTING.md) for guidelines.
 
 ## Contact Information
 - For questions or further discussions, feel free to contact me:
