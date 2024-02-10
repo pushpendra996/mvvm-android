@@ -1,6 +1,6 @@
 # MVVM in Android | Professional Development in android
 
-![MVVM in Android](https://github.com/pushpendra996/navigationstack-ios/blob/main/NavigationStack%20&%20NavigationLink.png?raw=true)
+![MVVM in Android](https://github.com/pushpendra996/mvvm-android/blob/main/MVVM%20in%20Android.png?raw=true)
 
 This repository contains the code and resources discussed in the YouTube video titled "Practical Guide to MVVM: How Professional Developers Approach Application Development."
 
